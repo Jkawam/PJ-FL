@@ -1,8 +1,130 @@
-# Digital Store 🛒👟👗
+<div align="center">
 
-Este repositório apresenta a **Digital Store**, uma plataforma de e-commerce dedicada à venda de roupas e sapatos. Nosso principal objetivo é conectar consumidores a produtos de moda de qualidade por preços mais acessíveis, ao mesmo tempo em que oferecemos uma solução de vendas eficiente e de baixo custo para empreendedores e microempresas que desejam expandir seu alcance no mercado digital.
+# Digital Store
 
-A Digital Store visa democratizar o acesso à moda e ao empreendedorismo online, proporcionando uma experiência de compra intuitiva para os clientes e uma vitrine digital poderosa para os vendedores.
+### Plataforma de E-commerce desenvolvida com React, Vite e Tailwind CSS
 
-INTEGRANTES: José Kawam Rodrigues da Silva ,Antônio Mathyas Santos da Silva, Iarlei Ferreira de Barros e Nirla Maria dos Santos
-             
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+## Sobre o Projeto
+
+O **Digital Store** é uma aplicação Front-end que simula uma plataforma de comércio eletrônico voltada para a venda de roupas, calçados e acessórios.
+
+O projeto foi desenvolvido em equipe como parte de um desafio acadêmico, com o objetivo de aplicar conceitos modernos de desenvolvimento Front-end utilizando **React**, **Vite** e **Tailwind CSS**.
+
+A aplicação foi estruturada priorizando a componentização, reutilização de código, organização da arquitetura do projeto e criação de uma interface responsiva, proporcionando uma experiência de navegação intuitiva e consistente em diferentes dispositivos.
+
+---
+
+## Funcionalidades
+
+- Catálogo de produtos
+- Página de detalhes do produto
+- Produtos relacionados
+- Carrinho de compras
+- Navegação entre páginas
+- Layout responsivo
+- Componentes reutilizáveis
+- Organização modular do projeto
+
+---
+
+## Tecnologias Utilizadas
+
+- React
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS
+- React Router DOM
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+---
+
+## Arquitetura do Projeto
+
+```text
+src
+├── assets
+├── components
+├── pages
+├── routes
+├── services
+├── styles
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## Capturas de Tela
+
+### Página Inicial
+
+<p align="center">
+<img src="./README/home.png" alt="Página Inicial" width="900">
+</p>
+
+### Página do Produto
+
+<p align="center">
+<img src="./README/product.png" alt="Página do Produto" width="900">
+</p>
+
+### Carrinho de Compras
+
+<p align="center">
+<img src="./README/cart.png" alt="Carrinho de Compras" width="900">
+</p>
+
+---
+
+## Objetivos do Projeto
+
+Este projeto teve como finalidade consolidar conhecimentos em desenvolvimento Front-end, aplicando conceitos como:
+
+- Componentização com React
+- Gerenciamento de rotas
+- Estruturação de aplicações escaláveis
+- Desenvolvimento de interfaces responsivas
+- Organização de código
+- Trabalho colaborativo utilizando Git e GitHub
+
+---
+
+## Aprendizados
+
+Durante o desenvolvimento foram aprimoradas habilidades relacionadas a:
+
+- Desenvolvimento de aplicações React
+- Organização de componentes
+- Consumo e manipulação de dados
+- Responsividade
+- Versionamento de código
+- Colaboração em equipe
+
+---
+
+## Equipe
+
+- José Kawam Rodrigues da Silva
+- Antônio Mathyas Santos da Silva
+- Iarlei Ferreira de Barros
+- Nirla Maria dos Santos
+
+---
+
+<div align="center">
+
+**Projeto desenvolvido para fins acadêmicos e de aprendizado.**
+
+</div>
