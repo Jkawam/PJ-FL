@@ -80,8 +80,10 @@ src
 <img src="/README/produtos.png" alt="Página do Produto" width="900">
 </p>
 
+### Página de compras
+
 <p align="center">
-<img src="/README/comprar.png" alt="Página do Produto" width="900">
+<img src="/README/comprar.png" alt="Página de compras" width="900">
 </p>
 
 ### Carrinho de Compras
@@ -89,6 +91,8 @@ src
 <p align="center">
 <img src="/README/carrinho.png" alt="produtos" width="900">
 </p>
+
+### informações da compra
 
 <p align="center">
 <img src="/README/final.png" alt="informação de compra" width="900">
