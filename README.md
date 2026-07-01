@@ -71,19 +71,27 @@ src
 ### Página Inicial
 
 <p align="center">
-<img src="./README/home.png" alt="Página Inicial" width="900">
+<img src="/README/home.png" alt="Página Inicial" width="900">
 </p>
 
 ### Página do Produto
 
 <p align="center">
-<img src="./README/product.png" alt="Página do Produto" width="900">
+<img src="/README/produtos.png" alt="Página do Produto" width="900">
+</p>
+
+<p align="center">
+<img src="/README/comprar.png" alt="Página do Produto" width="900">
 </p>
 
 ### Carrinho de Compras
 
 <p align="center">
-<img src="./README/cart.png" alt="Carrinho de Compras" width="900">
+<img src="/README/carrinho.png" alt="produtos" width="900">
+</p>
+
+<p align="center">
+<img src="/README/final.png" alt="informação de compra" width="900">
 </p>
 
 ---
