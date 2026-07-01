@@ -35,7 +35,7 @@ Durante o desenvolvimento foram aplicados conceitos como componentização, reut
 
 ---
 
-# 🚀 Funcionalidades
+# Funcionalidades
 
 - Catálogo de produtos
 - Página de detalhes do produto
