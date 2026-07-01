@@ -1,6 +1,6 @@
 <div align="center">
 
-# Digital Store
+#  Digital Store
 
 ### Plataforma de E-commerce desenvolvida com React, Vite e Tailwind CSS
 
@@ -13,30 +13,44 @@
 
 ---
 
-## Sobre o Projeto
+#  Sobre o Projeto
 
 O **Digital Store** é uma aplicação Front-end que simula uma plataforma de comércio eletrônico voltada para a venda de roupas, calçados e acessórios.
 
-O projeto foi desenvolvido em equipe como parte de um desafio acadêmico, com o objetivo de aplicar conceitos modernos de desenvolvimento Front-end utilizando **React**, **Vite** e **Tailwind CSS**.
+Este projeto foi desenvolvido em equipe durante um **curso de Desenvolvimento Full Stack**, como parte de um desafio prático voltado à construção de aplicações web modernas. Nesta etapa do curso, o foco esteve no desenvolvimento Front-end utilizando **React**, **Vite** e **Tailwind CSS**.
 
-A aplicação foi estruturada priorizando a componentização, reutilização de código, organização da arquitetura do projeto e criação de uma interface responsiva, proporcionando uma experiência de navegação intuitiva e consistente em diferentes dispositivos.
+Durante o desenvolvimento foram aplicados conceitos como componentização, reutilização de componentes, organização da estrutura do projeto, navegação com React Router DOM e criação de interfaces responsivas, seguindo boas práticas de desenvolvimento.
 
 ---
 
-## Funcionalidades
+#  Destaques
+
+- Interface moderna e responsiva
+- Arquitetura baseada em componentes React
+- Navegação entre páginas utilizando React Router DOM
+- Componentes reutilizáveis
+- Organização modular do código
+- Desenvolvimento colaborativo em equipe
+- Aplicação desenvolvida como desafio prático de um curso Full Stack
+
+---
+
+# 🚀 Funcionalidades
 
 - Catálogo de produtos
 - Página de detalhes do produto
 - Produtos relacionados
 - Carrinho de compras
+- Resumo da compra
 - Navegação entre páginas
-- Layout responsivo
+- Interface responsiva
 - Componentes reutilizáveis
-- Organização modular do projeto
 
 ---
 
-## Tecnologias Utilizadas
+#  Tecnologias Utilizadas
+
+## Front-end
 
 - React
 - Vite
@@ -45,12 +59,15 @@ A aplicação foi estruturada priorizando a componentização, reutilização de
 - React Router DOM
 - HTML5
 - CSS3
+
+## Ferramentas
+
 - Git
 - GitHub
 
 ---
 
-## Arquitetura do Projeto
+#  Estrutura do Projeto
 
 ```text
 src
@@ -66,67 +83,79 @@ src
 
 ---
 
-## Capturas de Tela
+#  Capturas de Tela
 
-### Página Inicial
-
-<p align="center">
-<img src="/README/home.png" alt="Página Inicial" width="900">
-</p>
-
-### Página do Produto
+## Página Inicial
 
 <p align="center">
-<img src="/README/produtos.png" alt="Página do Produto" width="900">
-</p>
-
-### Página de compras
-
-<p align="center">
-<img src="/README/comprar.png" alt="Página de compras" width="900">
-</p>
-
-### Carrinho de Compras
-
-<p align="center">
-<img src="/README/carrinho.png" alt="produtos" width="900">
-</p>
-
-### informações da compra
-
-<p align="center">
-<img src="/README/final.png" alt="informação de compra" width="900">
+<img src="./README/home.png" alt="Página Inicial" width="900">
 </p>
 
 ---
 
-## Objetivos do Projeto
+## Catálogo de Produtos
 
-Este projeto teve como finalidade consolidar conhecimentos em desenvolvimento Front-end, aplicando conceitos como:
+<p align="center">
+<img src="./README/produtos.png" alt="Catálogo de Produtos" width="900">
+</p>
+
+---
+
+## Página do Produto
+
+<p align="center">
+<img src="./README/comprar.png" alt="Página do Produto" width="900">
+</p>
+
+---
+
+## Carrinho de Compras
+
+<p align="center">
+<img src="./README/carrinho.png" alt="Carrinho de Compras" width="900">
+</p>
+
+---
+
+## Resumo da Compra
+
+<p align="center">
+<img src="./README/final.png" alt="Resumo da Compra" width="900">
+</p>
+
+---
+
+#  Objetivos do Projeto
+
+O principal objetivo deste projeto foi consolidar conhecimentos adquiridos durante o curso de Desenvolvimento Full Stack, aplicando conceitos fundamentais do desenvolvimento Front-end, tais como:
 
 - Componentização com React
+- Organização de aplicações escaláveis
 - Gerenciamento de rotas
-- Estruturação de aplicações escaláveis
 - Desenvolvimento de interfaces responsivas
-- Organização de código
-- Trabalho colaborativo utilizando Git e GitHub
+- Reutilização de componentes
+- Versionamento de código com Git e GitHub
+- Trabalho colaborativo em equipe
 
 ---
 
-## Aprendizados
+#  Aprendizados
 
-Durante o desenvolvimento foram aprimoradas habilidades relacionadas a:
+Durante o desenvolvimento deste projeto foram aprimoradas habilidades em:
 
-- Desenvolvimento de aplicações React
-- Organização de componentes
-- Consumo e manipulação de dados
+- React
+- JavaScript Moderno (ES6+)
+- React Router DOM
+- Tailwind CSS
+- Organização de projetos Front-end
+- Componentização
 - Responsividade
-- Versionamento de código
-- Colaboração em equipe
+- Git e GitHub
+- Desenvolvimento colaborativo
 
 ---
 
-## Equipe
+#  Equipe
 
 - José Kawam Rodrigues da Silva
 - Antônio Mathyas Santos da Silva
@@ -135,8 +164,16 @@ Durante o desenvolvimento foram aprimoradas habilidades relacionadas a:
 
 ---
 
+#  Contexto
+
+Este projeto foi desenvolvido para fins educacionais como parte das atividades práticas de um curso de **Desenvolvimento Full Stack**. O desafio consistiu em construir uma aplicação Front-end inspirada em uma plataforma de e-commerce, aplicando boas práticas de desenvolvimento, organização de código e trabalho em equipe.
+
+---
+
 <div align="center">
 
-**Projeto desenvolvido para fins acadêmicos e de aprendizado.**
+###  Obrigado por visitar este repositório!
+
+Caso tenha gostado do projeto, considere deixar uma estrela no repositório.
 
 </div>
